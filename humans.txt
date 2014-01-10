@@ -1,0 +1,14 @@
+/* Team */
+Developer/Designed: David Birch
+Site: http://www.davidbirch.ca
+Twitter: @davidbirch
+Location: Ottawa, Canada
+
+/*Thanks*/
+To all the awesome people who helped me.
+
+/*Site*/
+Last update: 2013/11/14
+Standards: HTML5, CSS3
+Components: Jquery, etc...
+Software: Adobe Dreamweaver, Livereload

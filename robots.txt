@@ -1,0 +1,14 @@
+# Hashes are comments
+
+# http://en.wikipedia.org/wiki/Playstation4
+# http://en.wikipedia.org/wiki/XboxOne
+
+# http://www.playstation.com
+# http://www.xbox.com
+
+# Always put a robots.txt file into your main website directory
+# Even if you are not denying access to anything
+
+Sitemap: http://mywebsite.com/seo/sitemap.xml
+
+User-agent: *
